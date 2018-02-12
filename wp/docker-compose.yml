@@ -50,5 +50,5 @@ volumes:
 networks:
   default:
     external:
-      name: nginx-proxy
+      name: web-proxy
     
